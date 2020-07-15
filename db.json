@@ -1,0 +1,130 @@
+{
+  "message": "SUCCESS",
+  "data": {
+    "content": [
+      {
+        "customerId": 1,
+        "mstCmnd": "6",
+        "name": "3",
+        "email": "4",
+        "type": 5,
+        "code": "1",
+        "createdAt": "2020-07-29T03:10:12.000+00:00",
+        "updatedAt": "2020-07-29T03:10:20.000+00:00"
+      },
+      {
+        "customerId": 6,
+        "mstCmnd": "string",
+        "name": "string",
+        "email": "string",
+        "type": 0,
+        "code": "string",
+        "createdAt": "2020-07-14T09:23:36.000+00:00",
+        "updatedAt": "2020-07-14T09:32:31.000+00:00"
+      },
+      {
+        "customerId": 7,
+        "mstCmnd": "4324",
+        "name": "hanhtt",
+        "email": "hdsfgsdhfgh@dfgf.vm",
+        "type": 0,
+        "code": "234",
+        "createdAt": "2020-07-14T09:25:39.000+00:00",
+        "updatedAt": "2020-07-14T09:31:23.000+00:00"
+      },
+      {
+        "customerId": 8,
+        "mstCmnd": "string",
+        "password": "huonggiang2411",
+        "name": "Chu Hương Giang",
+        "email": "giangch.mis@gmail.com",
+        "type": 0,
+        "code": "3242",
+        "createdAt": "2020-07-14T09:40:28.000+00:00",
+        "updatedAt": "2020-07-14T09:40:28.000+00:00"
+      },
+      {
+        "customerId": 9,
+        "mstCmnd": "123456985",
+        "name": "Tần Thị Quỳnh",
+        "email": "quynhtran123@gmail.com",
+        "type": 0,
+        "code": "62",
+        "createdAt": "2020-07-15T03:15:01.000+00:00",
+        "updatedAt": "2020-07-15T03:15:01.000+00:00"
+      },
+      {
+        "customerId": 10,
+        "mstCmnd": "123456985",
+        "name": "Trần Thị Quỳnh Chi",
+        "email": "quynhtran123@gmail.com",
+        "type": 0,
+        "code": "22",
+        "createdAt": "2020-07-15T03:15:29.000+00:00",
+        "updatedAt": "2020-07-15T03:17:00.000+00:00"
+      },
+      {
+        "customerId": 11,
+        "mstCmnd": "string",
+        "name": "Chu Hương Giang",
+        "email": "giangch.mis@gmail.com",
+        "type": 0,
+        "code": "000",
+        "createdAt": "2020-07-15T03:18:58.000+00:00",
+        "updatedAt": "2020-07-15T03:18:58.000+00:00"
+      },
+      {
+        "customerId": 12,
+        "mstCmnd": "string",
+        "password": "huonggiang2411",
+        "name": "Chu Hương Giang",
+        "email": "giangch.mis@gmail.com",
+        "type": 0,
+        "code": "000",
+        "createdAt": "2020-07-15T03:20:46.000+00:00",
+        "updatedAt": "2020-07-15T03:20:46.000+00:00"
+      },
+      {
+        "customerId": 13,
+        "mstCmnd": "string",
+        "name": "Chu Hương Giang",
+        "email": "giangch.mis@gmail.com",
+        "type": 0,
+        "code": "000",
+        "createdAt": "2020-07-15T03:21:09.000+00:00",
+        "updatedAt": "2020-07-15T03:21:09.000+00:00"
+      },
+      {
+        "customerId": 14,
+        "mstCmnd": "string",
+        "name": "Chu Hương Giang",
+        "email": "giangch.mis@gmail.com",
+        "type": 0,
+        "code": "000",
+        "createdAt": "2020-07-15T03:22:01.000+00:00",
+        "updatedAt": "2020-07-15T03:22:01.000+00:00"
+      },
+      {
+        "customerId": 15,
+        "mstCmnd": "string",
+        "name": "Chu Hương GiangKHUJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ",
+        "email": "giangch.mis@gmail.com",
+        "type": 0,
+        "code": "000",
+        "createdAt": "2020-07-15T03:22:33.000+00:00",
+        "updatedAt": "2020-07-15T03:22:33.000+00:00"
+      },
+      {
+        "customerId": 16,
+        "mstCmnd": "string",
+        "name": "Chu Hương Giang",
+        "email": "giangch.mis@gmail.com",
+        "type": 0,
+        "code": "77765575",
+        "createdAt": "2020-07-15T03:23:10.000+00:00",
+        "updatedAt": "2020-07-15T03:23:10.000+00:00"
+      }
+    ],
+    "totalElement": 12
+  }
+}
