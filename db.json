@@ -1,6 +1,7 @@
 {
-  "message": "SUCCESS",
-  "data": {
+  "test" : {
+    "message": "SUCCESS",
+    "data": {
     "link": "https://vietteltelecom.vn/"
   }
 }
